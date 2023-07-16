@@ -30,6 +30,16 @@ const list = [{
     type: 1 //Receitas
 },
 
+{
+    id: 4,
+    label: 'Boleto Agua',
+    value: '75,00',
+    date: '30/06/2023',
+    type: 0 //Despesas
+},
+
+
+
 ]
 
 
