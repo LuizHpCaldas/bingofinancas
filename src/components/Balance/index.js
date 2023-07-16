@@ -43,6 +43,7 @@ const styles = StyleSheet.create({
         paddingTop: 22,
         paddingBottom:22,
         zIndex: 99,
+        elevation:10,
 
     }, 
     itemTitle:{
